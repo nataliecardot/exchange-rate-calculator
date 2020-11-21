@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #5dbcd2;
+  --primary-color: #5fbaa7;
 }
 
 * {
@@ -40,7 +40,7 @@ p {
   padding: 5px 12px;
 }
 
-.money {
+.money-img {
   width: 150px;
 }
 
